@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wp.wp-preview.com	TRUE	/inhype/inhype-1/	FALSE	1999999999	SESSnsl	nsl6307e44544f0d9.06162957
+wp.wp-preview.com	TRUE	/inhype/inhype-1/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
